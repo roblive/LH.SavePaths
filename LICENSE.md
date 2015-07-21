@@ -10,6 +10,7 @@ I prefer using plain english in licenses (and any other contract for that matter
 If you are in doubt or have any questions regarding what you can and what you cannot do, please don't hesitate to contact me:
 
 http://..../....
+
 users@gmail.com
 
 ======
