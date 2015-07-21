@@ -1,25 +1,19 @@
 ========================
-
-Template Test
+Template Test for play
 
 0.1.0
-
 ========================
-
 Author
-
+roblive
 
 Website
 http://roblive.github.io/LH.GameStart-SavePaths/
 
 ========================
-
 License
 
 - Please refer to the LICENSE.md file
-
 ========================
-
 This projects uses open-source components:
 
 jQuery - http://jquery.com/
